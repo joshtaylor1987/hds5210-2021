@@ -1,0 +1,30 @@
+patient,age,sex,chf history,hypertension history,stroke history,vascular disease history,diabetes history,history,ekg,risk factors,troponin,smoker,total cholesterol,hdl cholesterol,systolic bp,bp medicine
+E40794,82,Male,0,1,1,1,1,Moderately suspicious,Normal,4,3.8,0,214,64,92,1
+E57853,22,Male,0,0,1,0,0,Slightly suspicious,Non-specific repolarization,2,2.3,0,146,33,102,0
+E63841,32,Female,1,1,1,1,1,Slightly suspicious,Non-specific repolarization,4,1.3,0,195,31,115,1
+E87700,21,Female,1,1,1,0,0,Highly suspicious,Non-specific repolarization,1,1.1,0,152,42,82,1
+E49662,52,Female,1,1,0,0,0,Slightly suspicious,Normal,5,1.2,0,214,58,85,1
+E19241,88,Male,1,1,1,0,0,Moderately suspicious,Significant ST deviation,5,0.5,1,173,67,104,0
+E94033,22,Male,0,0,1,0,0,Slightly suspicious,Non-specific repolarization,5,3.0,0,163,62,112,0
+E19724,71,Female,0,0,0,1,1,Slightly suspicious,Significant ST deviation,4,3.9,0,188,30,99,0
+E77077,89,Female,1,0,0,1,1,Moderately suspicious,Non-specific repolarization,5,0.3,1,172,55,88,0
+E75736,54,Male,1,0,0,0,1,Highly suspicious,Normal,4,3.9,0,156,52,117,1
+E20246,89,Female,0,0,1,1,0,Moderately suspicious,Normal,3,0.3,0,147,58,127,1
+E58235,36,Male,0,1,0,1,1,Slightly suspicious,Non-specific repolarization,1,0.4,1,169,33,128,1
+E29619,57,Female,1,0,0,1,1,Moderately suspicious,Normal,4,1.3,1,204,40,86,0
+E18023,22,Female,0,1,0,1,0,Slightly suspicious,Normal,5,0.2,0,177,59,81,0
+E56386,40,Female,1,1,1,0,0,Slightly suspicious,Normal,4,3.9,0,165,43,111,1
+E87379,54,Female,0,0,0,1,1,Highly suspicious,Normal,3,3.1,1,200,50,86,0
+E44264,39,Male,1,0,0,0,0,Highly suspicious,Significant ST deviation,4,0.9,0,189,49,130,1
+E85955,61,Female,0,0,0,1,0,Moderately suspicious,Normal,2,1.9,1,176,68,106,0
+E17497,57,Female,1,0,1,0,0,Slightly suspicious,Normal,1,1.7,0,181,47,124,1
+E11391,76,Female,1,1,1,1,1,Moderately suspicious,Significant ST deviation,2,1.7,1,162,56,94,0
+E41611,83,Male,0,0,0,0,0,Slightly suspicious,Normal,1,1.0,0,215,52,98,1
+E66188,86,Female,0,1,0,0,0,Highly suspicious,Normal,1,2.3,1,169,55,100,1
+E74052,61,Female,1,0,0,0,1,Highly suspicious,Non-specific repolarization,2,3.5,0,151,65,86,1
+E40182,46,Male,1,1,1,1,0,Slightly suspicious,Normal,2,1.0,0,174,64,114,0
+E21161,25,Male,1,1,0,1,1,Slightly suspicious,Significant ST deviation,4,3.1,0,193,31,84,0
+E59494,62,Male,0,1,1,1,1,Moderately suspicious,Non-specific repolarization,1,2.4,0,167,31,115,0
+E61747,59,Male,0,1,1,0,0,Highly suspicious,Non-specific repolarization,2,3.6,1,174,66,88,1
+E42697,60,Female,0,1,1,0,1,Moderately suspicious,Significant ST deviation,1,2.1,1,156,63,124,1
+E61043,53,Male,0,1,1,0,0,Slightly suspicious,Normal,4,0.1,0,141,51,109,0
